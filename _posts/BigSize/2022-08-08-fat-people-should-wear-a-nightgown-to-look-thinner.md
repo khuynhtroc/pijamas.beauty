@@ -93,9 +93,7 @@ If you're trying to lose weight, it's important to take care of yourself. You sh
 
 The way we dress has a huge impact on how we feel about ourselves and our bodies. If someone sees us in something that makes them think "fat," they may judge us based on their assumptions about fat people (which could be inaccurate). This can make them less likely to want anything else from us than if the same person saw us wearing something cute or fashionable instead—even though both types of clothing would work well for either style!
 
-### The most important thing is that you feel good.
-
-#### The most important thing is that you feel good.
+## The most important thing is that you feel good.
 
 Don't worry about what other people think, do or wear. Don't worry about how others treat you and don't let them dictate how you should be. If they're mean to you, ignore them and walk away from their lives as if nothing happened—but keep walking towards yours! There's no need for anyone else in this world except those who want to see us smile every day of our lives: our loved ones, friends, family members (those closest) & ourselves!
 
