@@ -747,3 +747,21 @@ body.active-side {
   margin-bottom: 1rem;
   padding: 0.1rem;
 }
+
+.markdown-body table:not(.highlight) {
+    display: block;
+    overflow-x: auto;
+    margin: 1rem 0;
+}
+.markdown-body table:not(.highlight) th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-weight: 500;
+    text-align: left;
+    background-color: #007bff;
+    color: white;
+}
+.markdown-body table:not(.highlight) td, .markdown-body table:not(.highlight) th {
+    border: 1px solid #ddd;
+    padding: 8px 16px;
+}
