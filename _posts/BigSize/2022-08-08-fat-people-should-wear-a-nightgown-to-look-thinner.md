@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "How Should A Fat Person Wear A Nightgown To Look Thinner?"
+description: "If you've ever been called overweight or too big, then you know how difficult it can be to find clothing that fits well. But what if there was a way to look slimmer and feel better in your nightgown? Well, there is! The key is feeling confident while wearing your clothes (and no one will ever know if they think you're overweight or not)"
 summary: If you've ever been called overweight or too big, then you know how difficult it can be to find clothing that fits well. But what if there was a way to look slimmer and feel better in your nightgown? Well, there is! The key is feeling confident while wearing your clothes (and no one will ever know if they think you're overweight or not).
 author: huynhtroc
 categories: [ Big Size ]
-tags: nightgown overweight toobig
+tags: nightgown overweight toobig bigsize pijamas
 image: assets/images/blog/bigsize/how-should-a-fat-person-wear-a-nightgown-to-look-thinner/how-should-a-fat-person-wear-a-nightgown-to-look-thinner-pijamas.beauty-cover.jpg
 beforetoc: "If you've ever been called overweight or too big, then you know how difficult it can be to find clothing that fits well. But what if there was a way to look slimmer and feel better in your nightgown? Well, there is! The key is feeling confident while wearing your clothes (and no one will ever know if they think you're overweight or not)."
 toc: true
@@ -98,7 +99,5 @@ The way we dress has a huge impact on how we feel about ourselves and our bodies
 Don't worry about what other people think, do or wear. Don't worry about how others treat you and don't let them dictate how you should be. If they're mean to you, ignore them and walk away from their lives as if nothing happened—but keep walking towards yours! There's no need for anyone else in this world except those who want to see us smile every day of our lives: our loved ones, friends, family members (those closest) & ourselves!
 
 ![How Should A Fat Person Wear A Nightgown To Look Thinner]({{ site.url }}/assets/images/blog/bigsize/how-should-a-fat-person-wear-a-nightgown-to-look-thinner/how-should-a-fat-person-wear-a-nightgown-to-look-thinner-pijamas.beauty-11.jpg)
-
-## Conclusion
 
 In the end, your health is more important than how you look. If you're feeling fine and don't want to wear something tight or uncomfortable, then that's okay. The most important thing is that you feel good in what you're wearing so that your whole body can function properly!
