@@ -30,9 +30,7 @@ Design: see-through. Pattern is lace embroidery, which looks very elegant and se
 <div class="f-grid">
   <div class="f-grid-col">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, nulla! Assumenda dignissimos harum, molestias iure repudiandae ratione praesentium. Illo facilis et velit ut quam omnis, porro molestiae magni, laboriosam ipsa.
   </div>
-  <div class="f-grid-col">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, quaerat blanditiis. Eligendi quae tenetur ratione repellendus ut.</div>
   <div class="f-grid-col">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, nulla! Assumenda dignissimos harum, molestias iure repudiandae ratione praesentium. Illo facilis et velit ut quam omnis, porro molestiae magni, laboriosam ipsa.
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, nulla! Assumenda dignissimos harum, molestias iure repudiandae ratione praesentium. Illo facilis et velit ut quam omnis, porro molestiae magni, laboriosam ipsa.
   </div>
 </div>
 
