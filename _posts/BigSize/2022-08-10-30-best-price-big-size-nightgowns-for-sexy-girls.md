@@ -29,7 +29,7 @@ Design: see-through. Pattern is lace embroidery, which looks very elegant and se
 
 <div class="f-grid">
   	<div class="f-grid-col">
-  		<img class="img-thumb lazyimg" src="https://pijamas.beauty/assets/images/blog/bigsize/how-should-a-fat-person-wear-a-nightgown-to-look-thinner/how-should-a-fat-person-wear-a-nightgown-to-look-thinner-pijamas.beauty-cover.jpg" alt="How Should A Fat Person Wear A Nightgown To Look Thinner?">
+  		<img class="img-thumb lazyimg" href="/" target="_blank" rel="nofollow,noindex" src="https://pijamas.beauty/assets/images/blog/bigsize/how-should-a-fat-person-wear-a-nightgown-to-look-thinner/how-should-a-fat-person-wear-a-nightgown-to-look-thinner-pijamas.beauty-cover.jpg" alt="How Should A Fat Person Wear A Nightgown To Look Thinner?">
   	</div>
   	<div class="f-grid-col">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, nulla! Assumenda dignissimos harum, molestias iure repudiandae ratione praesentium. Illo facilis et velit ut quam omnis, porro molestiae magni, laboriosam ipsa.
   		<p class="text-center"><button href="/" target="_blank" rel="nofollow,noindex" type="button" class="btn btn-primary">Buy form Amazon</button></p>
