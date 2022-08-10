@@ -28,7 +28,8 @@ Big size night gowns are popular with women of every shape and size. They allow 
 Design: see-through. Pattern is lace embroidery, which looks very elegant and sexy. Also has a zipper on the back for easy dressing and removal, so you can enjoy this item in any situation for many years to come!  Shipping weight: 1.25kgs (3lbs), shipping size 60x60x30cm.
 
 <div class="f-grid">
-  <div class="f-grid-col">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, nulla! Assumenda dignissimos harum, molestias iure repudiandae ratione praesentium. Illo facilis et velit ut quam omnis, porro molestiae magni, laboriosam ipsa.
+  <div class="f-grid-col">
+  	<img class="img-thumb lazyimg" src="https://pijamas.beauty/assets/images/blog/bigsize/how-should-a-fat-person-wear-a-nightgown-to-look-thinner/how-should-a-fat-person-wear-a-nightgown-to-look-thinner-pijamas.beauty-cover.jpg" alt="How Should A Fat Person Wear A Nightgown To Look Thinner?">
   </div>
   <div class="f-grid-col">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, nulla! Assumenda dignissimos harum, molestias iure repudiandae ratione praesentium. Illo facilis et velit ut quam omnis, porro molestiae magni, laboriosam ipsa.
   </div>
