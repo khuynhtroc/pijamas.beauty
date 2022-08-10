@@ -6,7 +6,7 @@ summary: Big size night gowns (bigsize pijamas) are popular with women who want 
 author: darius
 categories: [ Big Size ]
 tags: nightgown overweight toobig bigsize pijamas
-image: assets/images/blog/bigsize/
+image: 
 beforetoc: "Lingerie big size night gowns (bigsize pijamas) are popular with women who want to look sexy and feel beautiful. These types of lingerie are perfect for any occasion, whether it be a night at home or out on the town. I have compiled my favorite big size nightgowns in this article so that you can see what they look like and decide if they're right for you."
 toc: true
 rating: 5
