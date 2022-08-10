@@ -3,7 +3,7 @@ layout: post
 title: "How Should A Fat Person Wear A Nightgown To Look Thinner?"
 description: "If you've ever been called overweight or too big, then you know how difficult it can be to find clothing that fits well. But what if there was a way to look slimmer and feel better in your nightgown? Well, there is! The key is feeling confident while wearing your clothes (and no one will ever know if they think you're overweight or not)"
 summary: If you've ever been called overweight or too big, then you know how difficult it can be to find clothing that fits well. But what if there was a way to look slimmer and feel better in your nightgown? Well, there is! The key is feeling confident while wearing your clothes (and no one will ever know if they think you're overweight or not).
-author: huynhtroc
+author: darius
 categories: [ Big Size ]
 tags: nightgown overweight toobig bigsize pijamas
 image: assets/images/blog/bigsize/how-should-a-fat-person-wear-a-nightgown-to-look-thinner/how-should-a-fat-person-wear-a-nightgown-to-look-thinner-pijamas.beauty-cover.jpg
