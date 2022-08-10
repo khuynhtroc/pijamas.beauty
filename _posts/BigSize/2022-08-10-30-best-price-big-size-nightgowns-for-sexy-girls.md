@@ -47,18 +47,7 @@ Lingerie set featuring beautiful floral lace is made of soft see-through lace, p
 * This lace chemise has adjustable shoulder straps which help to have a better control of your bust. The cut is very simple but sexy and flattering.
 * This plus size women lingerie highlights the sweetness and charms of womanhood and is tailored to fit the natural curves of the female.
 * Please check the size chart carefully before purchasing to choose the size that suits you best.
-* Size Measurement(Inch):
-* 1XL:Bust--43.73 Waist--22.06 Length--27.78
-* 2XL:Bust--46.89 Waist--23.64 Length--28.57
-* 3XL:Bust--50.04 Waist--25.22 Length--29.35
 
-| Brand Size    | USA	Bust    | Waist   | Hip   	| 
-| ------------- |:-------------:| -------:|--------:|
-| XL	      	| 14 - 16 		| 34.6 	  | 43.3 	|
-| 2XL      		| 18 - 20 		| 37.8 	  | 46.5 	|
-| 3XL      		| 22 - 24 		| 40.9 	  | 49.6 	|
-| 4XL      		| 26 - 28 		| 44.1 	  | 52.7 	|
-| 5XL      		| 30 - 32 		| 47.2 	  | 56   	|
 <div class="table-responsive">
   <table class="table">
   <thead class="thead-dark">
