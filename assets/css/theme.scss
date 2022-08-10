@@ -730,3 +730,20 @@ body.active-side {
         }
     }
 }
+
+/* flexbox */
+
+.f-grid {
+  display: flex;
+  justify-content: space-between;
+  margin-left: -1rem;
+  flex-flow: row wrap;
+}
+
+.f-grid-col {
+  flex: 1 0;
+  background-color: green;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}

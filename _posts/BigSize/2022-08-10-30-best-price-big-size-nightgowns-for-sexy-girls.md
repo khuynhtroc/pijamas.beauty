@@ -27,11 +27,14 @@ Big size night gowns are popular with women of every shape and size. They allow 
 
 Design: see-through. Pattern is lace embroidery, which looks very elegant and sexy. Also has a zipper on the back for easy dressing and removal, so you can enjoy this item in any situation for many years to come!  Shipping weight: 1.25kgs (3lbs), shipping size 60x60x30cm.
 
-| Left          | Center        | Right   |
-| ------------- |:-------------:| -------:|
-| col 3 is      | right-aligned | $160000 |
-| col 2 is      | centered      | $12     |
-| **Use**       | `Markdown`    | $1      |
+<div class="f-grid">
+  <div class="f-grid-col">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, nulla! Assumenda dignissimos harum, molestias iure repudiandae ratione praesentium. Illo facilis et velit ut quam omnis, porro molestiae magni, laboriosam ipsa.
+  </div>
+  <div class="f-grid-col">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, quaerat blanditiis. Eligendi quae tenetur ratione repellendus ut.</div>
+  <div class="f-grid-col">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, nulla! Assumenda dignissimos harum, molestias iure repudiandae ratione praesentium. Illo facilis et velit ut quam omnis, porro molestiae magni, laboriosam ipsa.
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, nulla! Assumenda dignissimos harum, molestias iure repudiandae ratione praesentium. Illo facilis et velit ut quam omnis, porro molestiae magni, laboriosam ipsa.
+  </div>
+</div>
 
 ### Sexy Hollow Out Lace Sheer big size Nightgown
 
