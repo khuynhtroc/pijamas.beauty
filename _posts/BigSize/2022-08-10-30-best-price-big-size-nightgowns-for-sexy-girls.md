@@ -70,10 +70,10 @@ Lingerie set featuring beautiful floral lace is made of soft see-through lace, p
   		<a href="https://www.amazon.com/dp/B09MDW667C/" target="_blank" rel="nofollow,noindex" ><img class="img-thumb lazyimg" src="https://pijamas.beauty/assets/images/blog/bigsize/30-best-price-big-size-nightgowns-for-sexy-girls/30-best-price-big-size-nightgowns-for-sexy-girls-pijamas.beauty-2.jpg" alt="How Should A Fat Person Wear A Nightgown To Look Thinner?"></a>
   	</div>
   	<div class="f-grid-col">
-	- 95% Polyester, 5% Other Fibers
-	- Material---95%Polyester+5%Spandex, the fabric is stretchy, feels soft and comfortable, not see through.
-	- Features---This XAKALAKA women plus size lingerie featuring adjustable spaghetti straps, side slit with tie closure. Gorgeous and seductive to draw your - lover's attention.
-	- Sexy Style---Sexy lace lingerie nightgowns for women, which you can wear it as a slip under your dress, as a sexy nightgown lingerie, or as a sexy sleep dress.
+	- 95% Polyester, 5% Other Fibers.<br>
+	- Material---95%Polyester+5%Spandex, the fabric is stretchy, feels soft and comfortable, not see through.<br>
+	- Features---This XAKALAKA women plus size lingerie featuring adjustable spaghetti straps, side slit with tie closure. Gorgeous and seductive to draw your - lover's attention.<br>
+	- Sexy Style---Sexy lace lingerie nightgowns for women, which you can wear it as a slip under your dress, as a sexy nightgown lingerie, or as a sexy sleep dress.<br>
 	- Occasion---This side slit babydoll lingerie slip dress is perfect for sleepwear, nightwear, loungewear, valentine’s day, date nights, wedding nights, honeymoon nights, lingerie party, or special nights for your lover.
   		<p class="text-center"><a href="https://www.amazon.com/dp/B09MDW667C/" target="_blank" rel="nofollow,noindex" ><button type="button" class="btn btn-primary">Buy from Amazon</button></a></p>
   	</div>
