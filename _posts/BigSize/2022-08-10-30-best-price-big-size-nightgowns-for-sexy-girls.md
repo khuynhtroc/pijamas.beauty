@@ -44,8 +44,6 @@ Lingerie set featuring beautiful floral lace is made of soft see-through lace, p
 
 ### 2. Women Plus Size Lace Babydoll Lingerie Side Slit Strappy Chemise Sleepwear
 
-#### Product Description
-
 * This lace chemise has adjustable shoulder straps which help to have a better control of your bust. The cut is very simple but sexy and flattering.
 * This plus size women lingerie highlights the sweetness and charms of womanhood and is tailored to fit the natural curves of the female.
 * Please check the size chart carefully before purchasing to choose the size that suits you best.
@@ -54,8 +52,6 @@ Lingerie set featuring beautiful floral lace is made of soft see-through lace, p
 * 2XL:Bust--46.89 Waist--23.64 Length--28.57
 * 3XL:Bust--50.04 Waist--25.22 Length--29.35
 
-#### Size Chart
-
 | Brand Size    | USA	Bust    | Waist   | Hip   	| 
 | ------------- |:-------------:| -------:|--------:|
 | XL	      	| 14 - 16 		| 34.6 	  | 43.3 	|
@@ -63,7 +59,56 @@ Lingerie set featuring beautiful floral lace is made of soft see-through lace, p
 | 3XL      		| 22 - 24 		| 40.9 	  | 49.6 	|
 | 4XL      		| 26 - 28 		| 44.1 	  | 52.7 	|
 | 5XL      		| 30 - 32 		| 47.2 	  | 56   	|
-
+<div class="table-responsive">
+  <table class="table">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Brand Size</th>
+      <th scope="col">USA	Bust</th>
+      <th scope="col">Waist</th>
+      <th scope="col">Hip</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>XL</td>
+      <td>14 - 16</td>
+      <td>34.6</td>
+      <td>43.3</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>2XL</td>
+      <td>18 - 20</td>
+      <td>37.8</td>
+      <td>46.5</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>3XL</td>
+      <td>22 - 24</td>
+      <td>40.9</td>
+      <td>49.6</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>4XL</td>
+      <td>26 - 28</td>
+      <td>44.1</td>
+      <td>52.7</td>
+    </tr>
+    <tr>
+      <th scope="row">5</th>
+      <td>5XL</td>
+      <td>30 - 32</td>
+      <td>47.2</td>
+      <td>56</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 <div class="f-grid">
   	<div class="f-grid-col">
@@ -71,10 +116,10 @@ Lingerie set featuring beautiful floral lace is made of soft see-through lace, p
   	</div>
   	<div class="f-grid-col">
 	- 95% Polyester, 5% Other Fibers.<br>
-	- Material---95%Polyester+5%Spandex, the fabric is stretchy, feels soft and comfortable, not see through.<br>
-	- Features---This XAKALAKA women plus size lingerie featuring adjustable spaghetti straps, side slit with tie closure. Gorgeous and seductive to draw your - lover's attention.<br>
-	- Sexy Style---Sexy lace lingerie nightgowns for women, which you can wear it as a slip under your dress, as a sexy nightgown lingerie, or as a sexy sleep dress.<br>
-	- Occasion---This side slit babydoll lingerie slip dress is perfect for sleepwear, nightwear, loungewear, valentine’s day, date nights, wedding nights, honeymoon nights, lingerie party, or special nights for your lover.
+	- Material: 95%Polyester+5%Spandex, the fabric is stretchy, feels soft and comfortable, not see through.<br>
+	- Features: This XAKALAKA women plus size lingerie featuring adjustable spaghetti straps, side slit with tie closure. Gorgeous and seductive to draw your - lover's attention.<br>
+	- Sexy Style: Sexy lace lingerie nightgowns for women, which you can wear it as a slip under your dress, as a sexy nightgown lingerie, or as a sexy sleep dress.<br>
+	- Occasion: This side slit babydoll lingerie slip dress is perfect for sleepwear, nightwear, loungewear, valentine’s day, date nights, wedding nights, honeymoon nights, lingerie party, or special nights for your lover.
   		<p class="text-center"><a href="https://www.amazon.com/dp/B09MDW667C/" target="_blank" rel="nofollow,noindex" ><button type="button" class="btn btn-primary">Buy from Amazon</button></a></p>
   	</div>
 </div>
