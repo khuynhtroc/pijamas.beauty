@@ -18,8 +18,6 @@ Lingerie big size night gowns (bigsize pijamas) are popular with women who want 
 
 Big size night gowns are popular with women of every shape and size. They allow a woman to express herself in ways that smaller-sized lingerie often fails to do—even for those who consider themselves plus-size by society's standards.
 
-## Here are {{ post.title }}
-
 ### See-Through Lace Embroidery Backless big size Nightgown
 
 * Size: XXXL
